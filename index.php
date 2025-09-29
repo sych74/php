@@ -1,6 +1,4 @@
 <?php
-# test13456
-
+# test13
 phpinfo();
-
 ?>
