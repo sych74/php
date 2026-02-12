@@ -1,4 +1,4 @@
 <?php
-# test12341q
+# version12345
 phpinfo();
 ?>
