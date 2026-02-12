@@ -1,4 +1,4 @@
 <?php
-# test12341qasdasdasdzzzzz
+# test12341qasdasdasd
 phpinfo();
 ?>
